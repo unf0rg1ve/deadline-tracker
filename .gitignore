@@ -1,0 +1,15 @@
+.env
+.DS_Store
+Thumbs.db
+
+/storage/*.sqlite
+/storage/*.sqlite-*
+/storage/uploads/
+/uploads/
+
+/.agents/
+/vendor/
+/node_modules/
+
+*.log
+*.tmp
